@@ -1,0 +1,4 @@
+[20/12/2021 00:14:12] Linea 1 : Maximo nivel alcanzado : 5
+[20/12/2021 00:14:12] Linea 2 : Monto acomulado en el juego : 50000.0
+[20/12/2021 14:26:28] Linea 1 : Maximo nivel alcanzado : 4
+[20/12/2021 14:26:28] Linea 2 : Monto acomulado en el juego : 40000.0
